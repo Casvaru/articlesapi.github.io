@@ -1,0 +1,20 @@
+{
+  "article1": {
+    "id": 1,
+    "title": "Primer título",
+    "description": "Hola mundooo",
+    "img":{
+      "url": "",
+      "thumbnail-small":"",
+      "thumbnail-medium":"",
+      "thumbnail-height":"",
+      "alt":""
+    },
+    "date": "2022",
+    "dateUpdated" :"",
+    "category":"",
+    "author":"Carlos Segura",
+    "keywords":"",
+    "type": "article"
+  }
+}
