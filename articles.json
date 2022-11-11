@@ -2,9 +2,9 @@
 {
     "id": 1,
     "title": "Primer título",
-    "description": "Hola mundooo",
+    "body": "Hola mundooo",
     "img":{
-      "url": "",
+      "url": "https://images.hdqwalls.com/wallpapers/vaporwave-zl.jpg",
       "thumbnail-small":"",
       "thumbnail-medium":"",
       "thumbnail-height":"",
@@ -18,11 +18,11 @@
     "type": "article"
   },
 {
-    "id": 1,
+    "id": 2,
     "title": "Segundo título",
-    "description": "Hola mundooo",
+    "body": "Hola mundooo",
     "img":{
-      "url": "",
+      "url": "https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmZ21lrWxnZQ.jpg",
       "thumbnail-small":"",
       "thumbnail-medium":"",
       "thumbnail-height":"",
