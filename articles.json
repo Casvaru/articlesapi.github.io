@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": 1,
     "title": "Primer título",
     "body": "Hola mundooo",
@@ -18,7 +18,7 @@
     "keywords":"",
     "type": "article"
   },
-{
+  {
     "id": 2,
     "title": "Segundo título",
     "body": "Hola mundooo",
