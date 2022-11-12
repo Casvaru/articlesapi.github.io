@@ -52,23 +52,5 @@
     "author":"Carlos Segura",
     "keywords":"",
     "type": "article"
-  },
-  {
-    "id": 4,
-    "title": "Cuarto título",
-    "body": "Hola mundooo",
-    "img":{
-      "url": "https://images.hdqwalls.com/wallpapers/vaporwave-zl.jpg",
-      "thumbnail-small":"",
-      "thumbnail-medium":"",
-      "thumbnail-height":"",
-      "alt":""
-    },
-    "date": "2022",
-    "dateUpdated" :"",
-    "category":"",
-    "author":"Carlos Segura",
-    "keywords":"",
-    "type": "article"
   }
 ]
